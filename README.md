@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on [Vempo](https://vempo-c2793dd428cf.herokuapp.com/)
-
 - 📫 How to reach me **mangassk8@gmail.com**
 
 - 📄 Know about my experiences [I recently finished a bootcamp called Le Wagon](I recently finished a bootcamp called Le Wagon)
